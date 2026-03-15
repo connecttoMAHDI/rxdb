@@ -21,7 +21,6 @@ pouch__all_dbs__/
 isolate-*
 release-body.md
 /test-db-*
-dist/
 plugins/
 *-debug.log
 .vscode
